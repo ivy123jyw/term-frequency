@@ -1,5 +1,5 @@
 # term-frequency
-Steps to run from the command line
+Steps to run from the command line\n
 1.javac count.java
 2.java count pride-and-prejudice.txt
 
